@@ -1,0 +1,6 @@
+﻿Release\Game.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 569 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake.vcxproj -> D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Release\SnakeProject.exe

@@ -1,0 +1,51 @@
+﻿  CharacterBase.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\CharacterBase.cpp(8,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\CharacterBase.cpp(13,1): warning C4010: single-line comment contains line-continuation character
+  EnemyBase.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\EnemyBase.cpp(7,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\EnemyBase.cpp(13,1): warning C4010: single-line comment contains line-continuation character
+  EnemyManager.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\EnemyManager.cpp(5,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\EnemyManager.cpp(7,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\EnemyManager.cpp(11,1): warning C4010: single-line comment contains line-continuation character
+  Framework.cpp
+  Fruit.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Fruit.cpp(7,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Fruit.cpp(13,1): warning C4010: single-line comment contains line-continuation character
+  Game.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Game.cpp(13,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Game.cpp(18,1): warning C4010: single-line comment contains line-continuation character
+  Game.h
+  Helpers.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Helpers.cpp(9,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Helpers.cpp(15,1): warning C4010: single-line comment contains line-continuation character
+  BoundaryManager.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\BoundaryManager.cpp(6,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\BoundaryManager.cpp(11,1): warning C4010: single-line comment contains line-continuation character
+  LevelManager.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\LevelManager.cpp(10,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\LevelManager.cpp(16,1): warning C4010: single-line comment contains line-continuation character
+  MenuRenderer.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\MenuRenderer.cpp(11,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\MenuRenderer.cpp(16,1): warning C4010: single-line comment contains line-continuation character
+  ScoreManager.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\ScoreManager.cpp(8,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\ScoreManager.cpp(14,1): warning C4010: single-line comment contains line-continuation character
+  Snake.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Snake.cpp(10,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Snake.cpp(12,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Snake.cpp(14,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Snake.cpp(17,1): warning C4010: single-line comment contains line-continuation character
+  SnakeSegment.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\SnakeSegment.cpp(6,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\SnakeSegment.cpp(8,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\SnakeSegment.cpp(12,1): warning C4010: single-line comment contains line-continuation character
+  MusicManager.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\MusicManager.cpp(5,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\MusicManager.cpp(10,1): warning C4010: single-line comment contains line-continuation character
+  Vector2.cpp
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Vector2.cpp(5,1): warning C4010: single-line comment contains line-continuation character
+D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Snake\Vector2.cpp(11,1): warning C4010: single-line comment contains line-continuation character
+  Generating Code...
+Debug\Game.obj : warning LNK4042: object specified more than once; extras ignored
+  Snake.vcxproj -> D:\Documents\University\Year 2\Module 1\Assignment\Snake Project\SnakeGameAssignment\Snake\Debug\SnakeProject.exe
